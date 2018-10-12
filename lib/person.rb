@@ -8,4 +8,3 @@ def initialize(hash)
 end #end each iteration
 end #end initialize method
 
-end #end class
